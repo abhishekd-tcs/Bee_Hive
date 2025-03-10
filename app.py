@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 
 
-youtube_url='https://youtu.be/gyIyukLYqAs'
+youtube_url='https://youtu.be/QKoSUIZbGBQ'
 # Set up page configuration
 st.set_page_config(page_title="Bee Hive", layout="wide")
 st.title("Depiction of Clustering as a Bee Hive")
